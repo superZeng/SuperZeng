@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/MyScenes/sence5.unity
-  isLoaded: 1
-  isActive: 1
