@@ -1,0 +1,13 @@
+﻿  AnchoredSpringForce.c
+e:\实验室\手术训练\openhaptics\examples\hd\console\anchoredspringforce\anchoredspringforce.c(64): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+e:\实验室\手术训练\openhaptics\examples\hd\console\anchoredspringforce\anchoredspringforce.c(88): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+e:\实验室\手术训练\openhaptics\examples\hd\console\anchoredspringforce\anchoredspringforce.c(124): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+e:\实验室\手术训练\openhaptics\examples\hd\console\anchoredspringforce\anchoredspringforce.c(169): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+AnchoredSpringForce.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+hdu.lib(hduError.obj) : warning LNK4217: 本地定义的符号 _fprintf 在函数 _hduPrintError 中导入
+hdu.lib(hduError.obj) : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl(class std::basic_ostream<char,struct std::char_traits<char> > &)" (__imp_?endl@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@1@AAV21@@Z)，该符号在函数 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,struct HDErrorInfo const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABUHDErrorInfo@@@Z) 中被引用
+Win32\Debug\AnchoredSpringForce.exe : fatal error LNK1120: 1 个无法解析的外部命令
